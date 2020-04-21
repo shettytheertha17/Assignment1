@@ -11,7 +11,7 @@ h1 {
 
 body {
 	
-	background-color: pink;
+	background-color: #EBF5FB 
 
 }
 
@@ -51,7 +51,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: cyan;
+	background-color: #FFA07A
 }
 
 #beef {
@@ -65,7 +65,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: orange;
+	background-color: #D2B4DE 
 }
 
 #sushi {
